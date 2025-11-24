@@ -1,5 +1,7 @@
 ## Selenite
 The better unblocked games website.
+ALL CREDITS TO SELENITE-CC
+i js made this because selenite isnt on github any more
 ## Deploy to a cloud service
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://railway.app/new/template?template=https://github.com/mrark201427/Selenite-Public)
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/mrark201427/selenite-public)
