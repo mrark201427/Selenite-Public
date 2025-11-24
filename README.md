@@ -20,3 +20,4 @@ i js made this because selenite isnt on github any more
 
 ## Support
 Join our [discord server](https://discord.gg/WDZhkdFyF4) to contact our support team free of charge for any reason 24/7.
+trigger build
